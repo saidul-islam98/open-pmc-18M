@@ -7,7 +7,7 @@
 [![license](https://img.shields.io/github/license/VectorInstitute/aieng-template.svg)](https://github.com/VectorInstitute/pmc-data-extraction/blob/main/LICENSE.md)
 
 <div align="center">
-    <img src="[https://github.com/saidul-islam98/open-pmc-18M/blob/main/pipeline.png](https://raw.githubusercontent.com/saidul-islam98/open-pmc-18M/main/pipeline.png)" 
+    <img src="https://raw.githubusercontent.com/saidul-islam98/open-pmc-18M/main/pipeline.png" 
      alt="Open-PMC Pipeline" 
      width="1000" />
 </div>
