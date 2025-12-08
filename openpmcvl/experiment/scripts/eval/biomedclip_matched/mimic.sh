@@ -1,6 +1,5 @@
 # biomedclip
 mmlearn_run --multirun hydra.launcher.mem_gb=64 \
-    hydra.launcher.qos=a40_arashaf_multimodal \
     hydra.launcher.partition=a40 \
     hydra.launcher.gres=gpu:2 \
     hydra.launcher.cpus_per_task=8 \
@@ -29,7 +28,6 @@ mmlearn_run --multirun hydra.launcher.mem_gb=64 \
 
 # loading a checkpoint
 mmlearn_run --multirun hydra.launcher.mem_gb=64 \
-    hydra.launcher.qos=a40_arashaf_multimodal \
     hydra.launcher.partition=a40 \
     hydra.launcher.gres=gpu:2 \
     hydra.launcher.cpus_per_task=8 \
