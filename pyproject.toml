@@ -2,9 +2,7 @@
 name = "openpmcvl"
 version = "1.0.0"
 description = "A toolkit to download, process, analyze and bechmark OpenPMC-VL"
-authors = ["Vector AI Engineering <ai_engineering@vectorinstitute.ai>"]
 license = "Apache-2.0"
-repository = "https://github.com/VectorInstitute/pmc-data-extraction"
 package-mode = false
 readme = "README.md"
 
